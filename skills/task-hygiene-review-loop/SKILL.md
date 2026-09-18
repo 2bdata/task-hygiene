@@ -17,3 +17,5 @@ After reviewing sessions over the last ~24hrs, or when a task repeatedly failed 
 - Capture the exact command/config/sequence that worked (not just "it worked").
 - Note why the first attempt failed — this prevents re-failing next time.
 - Keep entries terse; the skill is a lookup, not a log.
+
+## Updated 2026-09-18
