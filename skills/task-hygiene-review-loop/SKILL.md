@@ -27,3 +27,6 @@ After reviewing sessions over the last ~24hrs, or when a task repeatedly failed 
 ## Updated 2026-09-18
 
 ## Updated 2026-09-18
+
+## Codification rules
+- Capture the exact command/config/sequence that worked.
